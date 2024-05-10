@@ -11,6 +11,7 @@
     color: #002E5C;
     background-color: #004D99;
     cursor: default;
+    opacity: 0.5;
 }
 
 .secondary {
@@ -28,7 +29,7 @@
 }
 
 .default:hover {
-
+    background-color: #0080FF;
 }
 
 .red:hover {
@@ -41,6 +42,7 @@
 
 
 .default:active {
+    background-color: #0059B2;
 }
 
 .secondary:active {
@@ -49,10 +51,9 @@
 
 .red:active {
     background-color: #B21232;
-
 }
 
 .button:disabled {
-    color: rgba(0, 46, 92, 0.5);
+    color: #002E5C;
     background-color: #004D99;
 }
