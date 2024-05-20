@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/homework-tuesday/static/css/main.72c9400b.css",
-    "main.js": "/homework-tuesday/static/js/main.a5000325.js",
+    "main.css": "/homework-tuesday/static/css/main.b21acfd7.css",
+    "main.js": "/homework-tuesday/static/js/main.6b3ec94c.js",
     "static/js/787.66cb4309.chunk.js": "/homework-tuesday/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/homework-tuesday/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/homework-tuesday/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/homework-tuesday/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/checked.svg": "/homework-tuesday/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/homework-tuesday/index.html",
-    "main.72c9400b.css.map": "/homework-tuesday/static/css/main.72c9400b.css.map",
-    "main.a5000325.js.map": "/homework-tuesday/static/js/main.a5000325.js.map",
+    "static/media/burger.svg": "/homework-tuesday/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.b21acfd7.css.map": "/homework-tuesday/static/css/main.b21acfd7.css.map",
+    "main.6b3ec94c.js.map": "/homework-tuesday/static/js/main.6b3ec94c.js.map",
     "787.66cb4309.chunk.js.map": "/homework-tuesday/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72c9400b.css",
-    "static/js/main.a5000325.js"
+    "static/css/main.b21acfd7.css",
+    "static/js/main.6b3ec94c.js"
   ]
 }
